@@ -361,6 +361,30 @@ footer p {
     padding: 0 0 10px 0;
 }
 
+.scale {
+    /* display: inline-block; Строчно-блочный элемент */
+    overflow: hidden; /* Скрываем всё за контуром */
+   }
+   .scale img {
+    transition: 1s; /* Время эффекта */
+    /* display: block; Убираем небольшой отступ снизу */
+   }
+   .scale img:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
+
+.scale1 {
+    /* display: inline-block; Строчно-блочный элемент */
+    overflow: hidden; /* Скрываем всё за контуром */
+   }
+   .scale1 img {
+    transition: .8s; /* Время эффекта */
+    /* display: block; Убираем небольшой отступ снизу */
+   }
+   .scale1 img:hover {
+    transform: rotate(25deg); /* Увеличиваем масштаб */
+   }
+
 /* CSS Mobile */
 
 @media only screen
