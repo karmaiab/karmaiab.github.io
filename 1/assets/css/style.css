@@ -9,6 +9,9 @@ body {
     color: #555;
 }
 
+.back{
+    color: #000;
+}
 p {
     padding: 0 0 20px 0;
     line-height: 1.7em;
