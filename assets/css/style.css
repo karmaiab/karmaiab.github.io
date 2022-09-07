@@ -1,35 +1,35 @@
-.logo_text{
+.logo_text {
     color: lightgreen;
     text-align: center;
 }
 
-.first{
-    color: lightgreen;
-    text-align: center;
-    margin-top: 100px;
-}
-
-.first a{
-    color: lightgreen;
-}
-
-.second{
+.first {
     color: lightgreen;
     text-align: center;
     margin-top: 100px;
 }
 
-.second a{
+.first a {
     color: lightgreen;
 }
 
-.third{
+.second {
     color: lightgreen;
     text-align: center;
     margin-top: 100px;
 }
 
-.third a{
+.second a {
+    color: lightgreen;
+}
+
+.third {
+    color: lightgreen;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.third a {
     color: lightgreen;
 }
 
@@ -43,13 +43,23 @@
     color: lightgreen;
 }
 
+.fifth {
+    color: lightgreen;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fifth a {
+    color: lightgreen;
+}
+
 .background {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 
-.p{
+.p {
     padding: 0 0 20px 0;
     line-height: 1.7em;
 }
