@@ -53,6 +53,16 @@
     color: lightgreen;
 }
 
+.sixth {
+    color: lightgreen;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.sixth a {
+    color: lightgreen;
+}
+
 .background {
     background-repeat: no-repeat;
     background-attachment: fixed;
