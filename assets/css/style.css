@@ -63,6 +63,16 @@
     color: lightgreen;
 }
 
+.seventh {
+    color: lightgreen;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.seventh a {
+    color: lightgreen;
+}
+
 .background {
     background-repeat: no-repeat;
     background-attachment: fixed;
